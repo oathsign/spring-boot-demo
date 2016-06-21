@@ -1,0 +1,1 @@
+INSERT INTO [boot].[dbo].[customer] ([id], [address], [name]) VALUES ('980ac20cc95c4d91a610718bf5724012', 'Beijing', 'Mr.Zhang');
